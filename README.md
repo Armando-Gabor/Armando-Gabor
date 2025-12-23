@@ -9,14 +9,12 @@
 - 📍 Zagreb, Croatia
 
 ### Education:
-<p align="left">
-Master of Engineering in Information Technology (M.Eng.IT) <br/>
-Tehničko Veleučilište u Zagrebu (Zagreb University of Applied Sciences) <br/>
-(2023. - 2025.)
-
-Bachelor of Engineering in Information Technology (B.Eng.IT) <br/>
-Tehničko Veleučilište u Zagrebu (Zagreb University of Applied Sciences) <br/>
-(2020. - 2023.)
+<p>
+Zagreb University of Applied Sciences <br/>
+<ul>
+<li>Master of Engineering in Information Technology (M.Eng.IT) (2023. - 2025.)</li>
+<li>Bachelor of Engineering in Information Technology (B.Eng.IT) (2020. - 2023.)</li>
+</ul>
 </p>
 
 <h3 align="left">Technologies: </h3>
