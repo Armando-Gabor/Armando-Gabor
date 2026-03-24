@@ -2,7 +2,7 @@
 
 ### Master of Engineering in Information Technology (M.Eng.IT)
 
-### Junior Data Scientist / Junior Machine Learning Engineer
+### Business Intelligence Developer
 
 - 📫 How to reach me **armandog.private@gmail.com**
   
@@ -19,9 +19,9 @@ Zagreb University of Applied Sciences <br/>
 
 <h3 align="left">Technologies: </h3>
 <p align="left">
-Python, Juypter, Git, SQL <br/><br/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a>
+SQL, DBeaver, Excel, Python, Jupyter, Git <br/><br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a>
 </p>
@@ -46,7 +46,7 @@ Scikit-Learn <br/><br/>
 -->
 <h3 align="left">Other:</h3>
 <p align="left">
-JavaScript, MongoDB,  AWS, VS Code, Github, OpenRouter, Trello, Jira, Roo Code, React, Node.js, Express.js, XAMPP<br/><br/>
+JavaScript, MongoDB, AWS, VS Code, Github, OpenRouter, Trello, Jira, Roo Code, React, Node.js, Express.js, XAMPP<br/><br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/amplify" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="amplify" width="40" height="40"/></a>
