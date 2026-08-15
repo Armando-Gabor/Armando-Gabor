@@ -19,7 +19,7 @@ Zagreb University of Applied Sciences <br/>
 
 <h3 align="left">Technologies: </h3>
 <p align="left">
-SQL, DBeaver, Excel, Python, Jupyter, Git <br/><br/>
+SQL, DBeaver, Power Bi, Excel, Python, Jupyter, Git <br/><br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a>
