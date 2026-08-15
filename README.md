@@ -2,7 +2,7 @@
 
 ### Master of Engineering in Information Technology (M.Eng.IT)
 
-### Business Intelligence Developer
+### Business Intelligence Developer at EOS Matrix Croatia
 
 - 📫 How to reach me **armandog.private@gmail.com**
   
